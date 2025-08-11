@@ -20,8 +20,6 @@ An electoral mandate distribution calculator with interactive visualization.
 ### 📰 [NewsPulse](https://github.com/kirill-demidov/NewsPulse)
 A news aggregator with sentiment analysis and personalized recommendations.
 
-### 🏙️ [Urban Server Streamlit](https://github.com/kirill-demidov/urban_server_streamlit)
-Interactive dashboards for urban data analysis.
 
 …and a few more experiments mixing code, design, and data.
 
